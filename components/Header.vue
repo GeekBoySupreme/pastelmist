@@ -4,7 +4,7 @@
       <div class='row'>
          <div class='col-lg-12'>
             <div class='image-logo-component'>
-              <!-- <img class="header-logo" src='../assets/tabtrum_128.png'/> -->
+              <img class="header-logo" src='../assets/tabtrum_128.png'/>
               <span class="header-text">TabTrum</span>
             </div>
 
@@ -20,11 +20,12 @@
 <style>
 .header {
   width: 100vw;
-  height: 70vh;
   position: relative;
   top: 0px;
 
-  background: #f73e3f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .coffee-button-header {
@@ -32,16 +33,17 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 15px 25px;
+  padding: 15px 30px;
   margin: 3px;
-  border-radius: 4px;
-  background: rgba(255, 255, 255, 0.13);
+  border-radius: 50px;
+  background: #005bbd;
 
+  cursor: pointer;
   transition: all 0.5s ease;
 }
 .coffee-button-header i, span {
   font-size: 20px;
-  color: rgb(46, 16, 16);
+  color: white;
 }
 .coffee-button-header span {
   margin-left: 10px;
@@ -49,7 +51,7 @@
 }
 
 .coffee-button-header:hover {
-  background: rgba(255, 255, 255, 0.26);
+  background: #0073ee;
 }
 
 
@@ -64,8 +66,8 @@
   width: 40px;
 }
 .image-logo-component span {
-  /* margin-left: 10px; */
-  color: hsl(0, 0%, 19%);
+  margin-left: 20px;
+  color: rgb(71, 71, 71);
   font-size: 25px;
   font-weight: 700;
 }
@@ -75,6 +77,8 @@
 .image-logo-component, .coffee-button-header {
   margin-top: 30px;
 }
+
+
 
 
 @media (min-width: 320px) and (max-width: 480px) {

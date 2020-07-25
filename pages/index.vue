@@ -10,6 +10,6 @@ export default {}
 
 <style>
 html {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 </style>
