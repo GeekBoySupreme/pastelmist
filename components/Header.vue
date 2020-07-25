@@ -47,7 +47,7 @@
 }
 .coffee-button-header span {
   margin-left: 10px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .coffee-button-header:hover {
@@ -67,7 +67,7 @@
 }
 .image-logo-component span {
   margin-left: 20px;
-  color: rgb(71, 71, 71);
+  color: rgb(95, 95, 95);
   font-size: 25px;
   font-weight: 700;
 }
@@ -88,6 +88,10 @@
   }
   .coffee-button-header span {
     display: none;
+  }
+
+  .coffee-button-header {
+    padding: 15px 18px;
   }
 }
 </style>
