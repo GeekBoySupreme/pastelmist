@@ -12,7 +12,7 @@
               <i class="fab fa-chrome"></i> <span>Coming Soon</span>
             </a>
           </div>
-          <img class='img-fluid' src='~/assets/tabtrum_ss.png'/>
+          <img class='img-fluid' src='../assets/tabtrum_ss.png'/>
           <p>&nbsp;</p>
         </div>
       </div>
@@ -50,7 +50,7 @@
           </div>
           <div class='col-lg-4 col-md-4 col-sm-4'>
             <div class='float-image-div'>
-              <img class='float-image' src='~/assets/tabtrum.png'/>
+              <img class='float-image' src='../assets/tabtrum.png'/>
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@
             <h1>Suggestions &amp; Feedback</h1>
             <br />
             <h2 class='text-kinda-light'>Have a Feature Request? Want to report a bug?</h2>
-            <h2 class='text-kinda-light'>Drop us a Message, or tweet <a href='https://twitter.com/tabtrumapp' target='blank' class='blue-name'>@tabtrumapp</a></h2>
+            <h2 class='text-kinda-light'>Drop us a Message, or tweet <a href='https://twitter.com/tabtrumapp' target='blank' class='blue-name'>@tabtrumapp <i class="fab fa-twitter blue-name"></i></a></h2>
             <br />
             <br />
             
