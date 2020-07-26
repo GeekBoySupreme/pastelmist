@@ -5,7 +5,7 @@
        <div class='col-lg-6 col-md-6 col-sm-6'>
          <h3>Copyleft - All Wrongs Reserved</h3>
          <p>&nbsp;</p>
-         <h3>Made with <i class="fas fa-heart"></i> by <a href='' class='blue-name'>Shuvam</a></h3>
+         <h3>Made with <i class="fas fa-heart"></i> by <a href='https://twitter.com/shuvam360' target='blank' class='blue-name'>@shuvam360</a></h3>
          <p>&nbsp;</p>
          <p>&nbsp;</p>
 
@@ -24,15 +24,15 @@
 
        <div class='col-lg-6 col-md-6 col-sm-6'>
 
-         <h4 class='dark-text'>PS - <i class="fab fa-airbnb"></i> , <a href='' class='blue-name'>airbnb.design</a> and associated entities belong to <a href='https://www.airbnb.co.in/' class='blue-name'>Airbnb</a></h4>
+         <h4 class='dark-text'>PS - <i class="fab fa-airbnb"></i> , <a href='https://airbnb.design' target='blank' class='blue-name'>airbnb.design</a> and associated entities belong to <a href='https://www.airbnb.co.in/' target='blank' class='blue-name'>Airbnb</a></h4>
          <h4 class='dark-text'>TabTrum is is no way associated or affiliated to Airbnb and the Screenshot is solely for representational purposes</h4>
          <p>&nbsp;</p>
 
          <h4 class='light-text'>Liked TabTrum?</h4>
-         <h4 class='light-text'>We don't do Ads here. So please donate & show your support</h4>
+         <h4 class='light-text'>We don't do Ads here. So please donate &amp; show your support</h4>
          <p>&nbsp;</p>
          <p>&nbsp;</p>
-         <a class='social-link'>
+         <a class='social-link' href='https://paypal.me/ShuvamManna' target='blank'>
               <i class="fas fa-mug-hot"></i> <span>Buy me a Coffee</span>
             </a>
        </div>
@@ -44,7 +44,7 @@
 <style>
 .footer {
   width: 100vw;
-  background: #545c6e;
+  background: #545b6d;
   padding: 30px;
 
   position: relative;
@@ -109,7 +109,7 @@ h3 {
 }
 
 .dark-text {
-  color: #1d2025;
+  color: #1a1e24;
 }
 .light-text {
   color: #ffdea6;

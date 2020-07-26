@@ -6,7 +6,7 @@
         <div class='col-lg-12 col-md-12 col-sm-12'>
           <div class='headliner-text'>
             <b>Tired of <u>messy</u> Tabs?</b>
-            <h2 class='lighter-text'>Save & Launch a list of tabs with a Single Click</h2>
+            <h2 class='lighter-text'>Save &amp; Launch lists of tabs with a Single Click</h2>
 
             <a class='add-to-chrome-color1'>
               <i class="fab fa-chrome"></i> <span>Coming Soon</span>
@@ -32,13 +32,13 @@
           <div class='col-lg-8 col-md-8 col-sm-8'>
             <h1>Whyyyyyyy ?</h1>
             <br />
-            <h2>We built TabTrum to address one key problem we were facing.</h2>
+            <h2>We built TabTrum to address one key problem we all face.</h2>
             <br />
             <h2 class='lighter-text'>Budget Device <i class="fas fa-arrow-right"></i> 20+ Open Tabs <i class="fas fa-arrow-right"></i> RAM Drained <i class="far fa-dizzy"></i>  <i class="fas fa-arrow-right"></i> Device Frozen <i class="fas fa-arrow-right"></i> You Sad <i class="fas fa-heart-broken"></i></h2> 
             <br />
             <br />
             <h2 class='text-kinda-light'>With TabTrum, you can 
-              <br /><i class="fas fa-scroll"></i> open <b>n tabs</b>,
+              <br /><i class="fas fa-scroll"></i> open <b>n tabs (duh)</b>,
               <br /><i class="fas fa-shapes"></i> save them as a Snapshot when you're taking off,
               <br /><i class="fas fa-dove"></i> close the browser in peace,
               <br /><i class="fas fa-space-shuttle"></i> come back and launch all tabs at once !
@@ -53,6 +53,21 @@
               <img class='float-image' src='../assets/tabtrum.png'/>
             </div>
           </div>
+        </div>
+
+        <div class='row'>
+          <div class='col-lg-8 col-md-8 col-sm-8'>
+            <br />
+            <br />
+            <h1>Suggestions &amp; Feedback</h1>
+            <br />
+            <h2 class='text-kinda-light'>Have a Feature Request? Want to report a bug?</h2>
+            <h2 class='text-kinda-light'>Drop us a Message, or tweet <a href='https://twitter.com/tabtrumapp' target='blank' class='blue-name'>@tabtrumapp</a></h2>
+            <br />
+            <br />
+            
+          </div>
+         
         </div>
       </div>
     </div>

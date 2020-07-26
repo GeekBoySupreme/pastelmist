@@ -34,4 +34,7 @@ html {
     border-radius: 20px;
   }
 
+  a {
+    text-decoration: none;
+  }
 </style>
