@@ -238,7 +238,7 @@ h2 .fas {
 }
 
 .add-to-chrome-color1:hover {
-  background: #ffd071;
+  background: #ffa581;
 }
 
 
@@ -270,6 +270,6 @@ h2 .fas {
 }
 
 .add-to-chrome-color2:hover {
-  background: #ffd684;
+  background: #ffd98d;
 }
 </style>

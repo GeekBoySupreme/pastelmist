@@ -52,7 +52,7 @@
 }
 
 .coffee-button-header:hover {
-  background: #ffd071;
+  background: #ffa581;
 }
 
 

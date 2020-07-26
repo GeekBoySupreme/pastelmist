@@ -7,10 +7,34 @@
          <p>&nbsp;</p>
          <h3>Made with <i class="fas fa-heart"></i> by <a href='' class='blue-name'>Shuvam</a></h3>
          <p>&nbsp;</p>
+         <p>&nbsp;</p>
+
+         <div class='social-link-holder'>
+            <a class='social-link'>
+              <i class="fab fa-chrome"></i> <span>Coming Soon</span>
+            </a>
+
+            <a class='social-link' href='https://twitter.com/tabtrumapp' target='blank'>
+                <i class="fab fa-twitter"></i>
+            </a>
+         </div>
+         <p>&nbsp;</p>
+         <p>&nbsp;</p>
        </div>
 
        <div class='col-lg-6 col-md-6 col-sm-6'>
-         szdgsfdf
+
+         <h4 class='dark-text'>PS - <i class="fab fa-airbnb"></i> , <a href='' class='blue-name'>airbnb.design</a> and associated entities belong to <a href='https://www.airbnb.co.in/' class='blue-name'>Airbnb</a></h4>
+         <h4 class='dark-text'>TabTrum is is no way associated or affiliated to Airbnb and the Screenshot is solely for representational purposes</h4>
+         <p>&nbsp;</p>
+
+         <h4 class='light-text'>Liked TabTrum?</h4>
+         <h4 class='light-text'>We don't do Ads here. So please donate & show your support</h4>
+         <p>&nbsp;</p>
+         <p>&nbsp;</p>
+         <a class='social-link'>
+              <i class="fas fa-mug-hot"></i> <span>Buy me a Coffee</span>
+            </a>
        </div>
      </div>
    </div>
@@ -32,7 +56,7 @@
 
 h3 {
   color:#ffdea6;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .fa-heart {
@@ -43,5 +67,55 @@ h3 {
 .blue-name {
   text-decoration: none;
   color: #84afff;
+}
+
+
+
+
+
+
+
+.social-link {
+  margin: 3px;
+  border-radius: 50px;
+  background: #464e5c;
+  width: 50px;
+  height: 50px;
+  padding: 15px 30px;
+
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.social-link i, span {
+  font-size: 20px;
+  color: #d3d3d3;
+}
+.social-link span {
+  margin-left: 10px;
+  font-weight: 600;
+  color: #d3d3d3;
+}
+
+.social-link:hover {
+  background: #677085;
+}
+
+.social-link:nth-child(1) {
+  padding: 15px 30px;
+  margin-left: 0px;
+}
+.social-link:nth-child(2) {
+  padding: 15px 17px;
+}
+
+.dark-text {
+  color: #1d2025;
+}
+.light-text {
+  color: #ffdea6;
+}
+
+.social-link {
+  margin-top : 15px;
 }
 </style>

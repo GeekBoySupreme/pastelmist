@@ -31,6 +31,7 @@ html {
   html::-webkit-scrollbar-thumb {
     background: #5d7bff;
     width: 0.3rem;
+    border-radius: 20px;
   }
 
 </style>
