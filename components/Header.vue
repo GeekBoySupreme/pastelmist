@@ -36,10 +36,10 @@
   padding: 15px 30px;
   margin: 3px;
   border-radius: 50px;
-  background: #005bbd;
+  background: #ff976e;
 
   cursor: pointer;
-  transition: all 0.5s ease;
+  transition: all 0.3s ease;
 }
 .coffee-button-header i, span {
   font-size: 20px;
@@ -51,7 +51,7 @@
 }
 
 .coffee-button-header:hover {
-  background: #0073ee;
+  background: #ffd071;
 }
 
 
@@ -61,13 +61,16 @@
   display: flex;
   justify-content: center;
   align-items: center;
+
+  position: relative;
+  top: 8px;
 }
 .header-logo {
-  width: 40px;
+  width: 50px;
 }
 .image-logo-component span {
   margin-left: 20px;
-  color: rgb(95, 95, 95);
+  color: rgb(112, 112, 112);
   font-size: 25px;
   font-weight: 700;
 }
@@ -84,14 +87,14 @@
 @media (min-width: 320px) and (max-width: 480px) {
   
   .header {
-    height: 100vh;
+    height: 15vh;
   }
   .coffee-button-header span {
     display: none;
   }
 
   .coffee-button-header {
-    padding: 15px 18px;
+    padding: 15px 15px;
   }
 }
 </style>
