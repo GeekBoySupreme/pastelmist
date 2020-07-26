@@ -48,6 +48,7 @@
 .coffee-button-header span {
   margin-left: 10px;
   font-weight: 600;
+  color: white;
 }
 
 .coffee-button-header:hover {

@@ -9,7 +9,7 @@
             <h2 class='lighter-text'>Save & Launch a list of tabs with a Single Click</h2>
 
             <a class='add-to-chrome-color1'>
-              <i class="fas fa-mug-hot"></i> <span>Buy me a Coffee</span>
+              <i class="fab fa-chrome"></i> <span>Coming Soon</span>
             </a>
           </div>
           <img class='img-fluid' src='../assets/tabtrum_ss.png'/>
@@ -45,7 +45,7 @@
             </h2>
             <br />
             <a class='add-to-chrome-color2'>
-              <i class="fas fa-mug-hot"></i> <span>Buy me a Coffee</span>
+              <i class="fab fa-chrome"></i> <span>Coming Soon</span>
             </a>
           </div>
           <div class='col-lg-4 col-md-4 col-sm-4'>
@@ -215,14 +215,14 @@ h2 .fas {
 
 /* Add to Chrome Buttons */
 .add-to-chrome-color1 {
-  float: right;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 15px 30px;
-  margin: 3px;
+  margin: 20px auto 5px auto;
   border-radius: 50px;
   background: #ff976e;
+  width: 250px;
 
   cursor: pointer;
   transition: all 0.3s ease;
@@ -234,6 +234,7 @@ h2 .fas {
 .add-to-chrome-color1 span {
   margin-left: 10px;
   font-weight: 600;
+  color: white!important;
 }
 
 .add-to-chrome-color1:hover {
@@ -246,28 +247,29 @@ h2 .fas {
 
 
 .add-to-chrome-color2 {
-  float: right;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 15px 30px;
   margin: 3px;
   border-radius: 50px;
-  background: #ff976e;
+  background: #ffdca7;
+  width: 250px;
 
   cursor: pointer;
   transition: all 0.3s ease;
 }
 .add-to-chrome-color2 i, span {
   font-size: 20px;
-  color: white;
+  color: rgb(94, 94, 94);
 }
 .add-to-chrome-color2 span {
   margin-left: 10px;
   font-weight: 600;
+  color: rgb(94, 94, 94);
 }
 
 .add-to-chrome-color2:hover {
-  background: #ffd071;
+  background: #ffd684;
 }
 </style>
