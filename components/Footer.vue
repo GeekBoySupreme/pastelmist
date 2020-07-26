@@ -20,7 +20,7 @@
 <style>
 .footer {
   width: 100vw;
-  background: rgb(236, 236, 236);
+  background: #545c6e;
   padding: 30px;
 
   position: relative;
@@ -31,7 +31,7 @@
 }
 
 h3 {
-  color:rgb(87, 87, 87);
+  color:#ffdea6;
   font-weight: 700;
 }
 
@@ -42,6 +42,6 @@ h3 {
 
 .blue-name {
   text-decoration: none;
-  color: #3972db;
+  color: #84afff;
 }
 </style>

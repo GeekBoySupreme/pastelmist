@@ -7,6 +7,10 @@
           <div class='headliner-text'>
             <b>Tired of <u>messy</u> Tabs?</b>
             <h2 class='lighter-text'>Save & Launch a list of tabs with a Single Click</h2>
+
+            <a class='add-to-chrome-color1'>
+              <i class="fas fa-mug-hot"></i> <span>Buy me a Coffee</span>
+            </a>
           </div>
           <img class='img-fluid' src='../assets/tabtrum_ss.png'/>
           <p>&nbsp;</p>
@@ -25,13 +29,29 @@
     <div class='main-section'>
       <div class='container'>
         <div class='row'>
-          <div class='col-lg-8'>
-            
+          <div class='col-lg-8 col-md-8 col-sm-8'>
             <h1>Whyyyyyyy ?</h1>
             <br />
-            <h2>We built TabTrum to address one of the key problems we were facing.</h2>
+            <h2>We built TabTrum to address one key problem we were facing.</h2>
             <br />
             <h2 class='lighter-text'>Budget Device <i class="fas fa-arrow-right"></i> 20+ Open Tabs <i class="fas fa-arrow-right"></i> RAM Drained <i class="far fa-dizzy"></i>  <i class="fas fa-arrow-right"></i> Device Frozen <i class="fas fa-arrow-right"></i> You Sad <i class="fas fa-heart-broken"></i></h2> 
+            <br />
+            <br />
+            <h2 class='text-kinda-light'>With TabTrum, you can 
+              <br /><i class="fas fa-scroll"></i> open <b>n tabs</b>,
+              <br /><i class="fas fa-shapes"></i> save them as a Snapshot when you're taking off,
+              <br /><i class="fas fa-dove"></i> close the browser in peace,
+              <br /><i class="fas fa-space-shuttle"></i> come back and launch all tabs at once !
+            </h2>
+            <br />
+            <a class='add-to-chrome-color2'>
+              <i class="fas fa-mug-hot"></i> <span>Buy me a Coffee</span>
+            </a>
+          </div>
+          <div class='col-lg-4 col-md-4 col-sm-4'>
+            <div class='float-image-div'>
+              <img class='float-image' src='../assets/tabtrum.png'/>
+            </div>
           </div>
         </div>
       </div>
@@ -85,6 +105,14 @@
   color: rgb(97, 97, 97);
 }
 
+.text-kinda-light {
+  color: rgb(66, 63, 63);
+}
+
+.text-kinda-light i {
+  color: #c0ae8b!important;
+}
+
 h2 .fas {
   font-size : 15px;
   color:rgb(94, 94, 94);
@@ -104,6 +132,18 @@ h2 .fas {
 .container-2 {
   z-index: 9;
   margin-top: -50vh;
+}
+
+
+.float-image {
+  width: 100%;
+  border-radius: 5px;
+  margin: 30px auto;
+}
+
+.float-image-div {
+  position: relative;
+  /* animation: MoveUpDown 2s linear infinite; */
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -128,8 +168,7 @@ h2 .fas {
   }
 
   .main-section {
-    padding-top: 1vh;
-    margin-top: -100px;
+    padding-top: 4vh;
   }
   
 }
@@ -142,7 +181,7 @@ h2 .fas {
 
   .main-section {
     padding-top: 1vh;
-    margin-top: -200px;
+    margin-top: -100px;
   }
   
 }
@@ -158,5 +197,77 @@ h2 .fas {
     position: relative;
     top: 0px;
   }
+}
+
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 0;
+  }
+  50% {
+    bottom: 10px;
+  }
+}
+
+
+
+
+
+
+/* Add to Chrome Buttons */
+.add-to-chrome-color1 {
+  float: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 30px;
+  margin: 3px;
+  border-radius: 50px;
+  background: #ff976e;
+
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.add-to-chrome-color1 i, span {
+  font-size: 20px;
+  color: white;
+}
+.add-to-chrome-color1 span {
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+.add-to-chrome-color1:hover {
+  background: #ffd071;
+}
+
+
+
+
+
+
+.add-to-chrome-color2 {
+  float: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 30px;
+  margin: 3px;
+  border-radius: 50px;
+  background: #ff976e;
+
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.add-to-chrome-color2 i, span {
+  font-size: 20px;
+  color: white;
+}
+.add-to-chrome-color2 span {
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+.add-to-chrome-color2:hover {
+  background: #ffd071;
 }
 </style>
