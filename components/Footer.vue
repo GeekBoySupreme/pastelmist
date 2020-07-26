@@ -76,7 +76,7 @@ h3 {
 
 
 .social-link {
-  margin: 3px;
+  margin-right: 3px;
   border-radius: 50px;
   background: #464e5c;
   width: 50px;
@@ -117,5 +117,13 @@ h3 {
 
 .social-link {
   margin-top : 15px;
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .social-link-holder {
+    width: 120%;
+    margin-left: -10px;
+  }
 }
 </style>
