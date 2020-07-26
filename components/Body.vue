@@ -34,10 +34,10 @@
             <br />
             <h2>We built TabTrum to address one key problem we all face.</h2>
             <br />
-            <h2 class='lighter-text'>Budget Device <i class="fas fa-arrow-right"></i> 20+ Open Tabs <i class="fas fa-arrow-right"></i> RAM Drained <i class="far fa-dizzy"></i>  <i class="fas fa-arrow-right"></i> Device Frozen <i class="fas fa-arrow-right"></i> You Sad <i class="fas fa-heart-broken"></i></h2> 
+            <h2 class='text-kinda-light'>Budget Device <i class="fas fa-arrow-right"></i> 20+ Open Tabs <i class="fas fa-arrow-right"></i> RAM Drained <i style='color: rgb(80, 80, 80)!important;' class="far fa-dizzy"></i>  <i class="fas fa-arrow-right"></i> Device Frozen <i class="fas fa-arrow-right"></i> You Sad <i style='color: rgb(255, 109, 72)!important;' class="fas fa-heart-broken"></i></h2> 
             <br />
             <br />
-            <h2 class='text-kinda-light'>With TabTrum, you can 
+            <h2 class='text-kinda-light feature-list'>With TabTrum, you can 
               <br /><i class="fas fa-scroll"></i> open <b>n tabs (duh)</b>,
               <br /><i class="fas fa-shapes"></i> save them as a Snapshot when you're taking off,
               <br /><i class="fas fa-dove"></i> close the browser in peace,
@@ -140,6 +140,9 @@ h2 .fas {
   margin: 0px 4px 0px 4px;
 }
 
+.feature-list i {
+  width: 16px;
+}
 
 .container-1, .headliner-text, .img-fluid {
   z-index: 10;
@@ -236,7 +239,7 @@ h2 .fas {
   padding: 15px 30px;
   margin: 20px auto 5px auto;
   border-radius: 50px;
-  background: #ff976e;
+  background: #ff9268;
   width: 250px;
 
   cursor: pointer;
@@ -253,7 +256,7 @@ h2 .fas {
 }
 
 .add-to-chrome-color1:hover {
-  background: #ffa581;
+  background: #ffa784;
 }
 
 

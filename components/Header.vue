@@ -36,7 +36,7 @@
   padding: 15px 30px;
   margin: 3px;
   border-radius: 50px;
-  background: #ff976e;
+  background: #ff9268;
 
   cursor: pointer;
   transition: all 0.3s ease;
@@ -52,7 +52,7 @@
 }
 
 .coffee-button-header:hover {
-  background: #ffa581;
+  background: #ffa784;
 }
 
 
@@ -70,8 +70,8 @@
   width: 50px;
 }
 .image-logo-component span {
-  margin-left: 20px;
-  color: rgb(112, 112, 112);
+  margin-left: 10px;
+  color: rgb(83, 83, 83);
   font-size: 25px;
   font-weight: 700;
 }
