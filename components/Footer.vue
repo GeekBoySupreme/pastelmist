@@ -24,8 +24,8 @@
 
        <div class='col-lg-6 col-md-6 col-sm-6'>
 
-         <h4 class='dark-text'>PS - <i class="fab fa-airbnb"></i> , <a href='https://airbnb.design' target='blank' class='blue-name'>airbnb.design</a> and associated entities belong to <a href='https://www.airbnb.co.in/' target='blank' class='blue-name'>Airbnb</a></h4>
-         <h4 class='dark-text'>TabTrum is is no way associated or affiliated to Airbnb and the Screenshot is solely for representational purposes</h4>
+         <h4 class='dark-text'>PS - <i class="fab fa-airbnb"></i> , <a href='https://airbnb.design' target='blank' class='blue-name'>airbnb.design</a> and associated entities belong to <a href='https://www.airbnb.co.in/' target='blank' class='blue-name'>Airbnb</a>.</h4>
+         <h4 class='dark-text'>The Screenshot is solely for representational purposes.</h4>
          <p>&nbsp;</p>
 
          <h4 class='light-text'>Liked TabTrum?</h4>
