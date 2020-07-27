@@ -32,9 +32,11 @@
          <h4 class='light-text'>We don't do Ads here. So please donate &amp; show your support</h4>
          <p>&nbsp;</p>
          <p>&nbsp;</p>
-         <a class='social-link' href='https://paypal.me/ShuvamManna' target='blank'>
+         <div class='social-link-holder'>
+            <a class='social-link' href='https://paypal.me/ShuvamManna' target='blank'>
               <i class="fas fa-mug-hot"></i> <span>Buy me a Coffee</span>
             </a>
+         </div>
        </div>
      </div>
    </div>
