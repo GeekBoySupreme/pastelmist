@@ -8,7 +8,7 @@
             <b>Tired of <u>messy</u> Tabs?</b>
             <h2 class='lighter-text'>Save &amp; Launch lists of tabs with a Single Click</h2>
 
-            <a class='add-to-chrome-color1' href='https://chrome.google.com/webstore/detail/tabtrum/jhfphbjeobgkfkhjapgihmpgphcikgik?hl=en&authuser=0'>
+            <a class='add-to-chrome-color1' href='https://chrome.google.com/webstore/detail/tabtrum/jhfphbjeobgkfkhjapgihmpgphcikgik?hl=en&authuser=0' target='blank'>
               <i class="fab fa-chrome"></i> <span>Add to Chrome</span>
             </a>
           </div>
@@ -44,7 +44,7 @@
               <br /><i class="fas fa-space-shuttle"></i> come back and launch all tabs at once !
             </h2>
             <br />
-            <a class='add-to-chrome-color2' href='https://chrome.google.com/webstore/detail/tabtrum/jhfphbjeobgkfkhjapgihmpgphcikgik?hl=en&authuser=0'>
+            <a class='add-to-chrome-color2' href='https://chrome.google.com/webstore/detail/tabtrum/jhfphbjeobgkfkhjapgihmpgphcikgik?hl=en&authuser=0' target='blank'>
               <i class="fab fa-chrome"></i> <span>Add to Chrome</span>
             </a>
           </div>

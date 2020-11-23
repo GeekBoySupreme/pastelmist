@@ -10,8 +10,8 @@
          <p>&nbsp;</p>
 
          <div class='social-link-holder'>
-            <a class='social-link'>
-              <i class="fab fa-chrome"></i> <span>Coming Soon</span>
+            <a class='social-link' href='https://chrome.google.com/webstore/detail/tabtrum/jhfphbjeobgkfkhjapgihmpgphcikgik?hl=en&authuser=0' target='blank'>
+              <i class="fab fa-chrome"></i> <span>Add to Chrome</span>
             </a>
 
             <a class='social-link' href='https://twitter.com/tabtrumapp' target='blank'>
