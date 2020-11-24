@@ -8,8 +8,8 @@
               <span class="header-text">TabTrum</span>
             </div>
 
-            <a class='coffee-button-header' href='https://paypal.me/ShuvamManna' target='blank'>
-              <i class="fas fa-mug-hot"></i> <span>Buy me a Coffee</span>
+            <a class='coffee-button-header' href='https://chrome.google.com/webstore/detail/tabtrum/jhfphbjeobgkfkhjapgihmpgphcikgik?hl=en&authuser=0' target='blank'>
+              <i class="fab fa-chrome"></i> <span>Add to Chrome</span>
             </a>
          </div>
       </div>

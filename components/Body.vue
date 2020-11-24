@@ -8,9 +8,12 @@
             <b>Tired of <u>messy</u> Tabs?</b>
             <h2 class='lighter-text'>Save &amp; Launch lists of tabs with a Single Click</h2>
 
-            <a class='add-to-chrome-color1' href='https://chrome.google.com/webstore/detail/tabtrum/jhfphbjeobgkfkhjapgihmpgphcikgik?hl=en&authuser=0' target='blank'>
+            <!-- <a class='add-to-chrome-color1' href='https://chrome.google.com/webstore/detail/tabtrum/jhfphbjeobgkfkhjapgihmpgphcikgik?hl=en&authuser=0' target='blank'>
               <i class="fab fa-chrome"></i> <span>Add to Chrome</span>
-            </a>
+            </a> -->
+            <br />
+            <a href='https://www.producthunt.com/posts/tabtrum?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tabtrum' target='_blank'><img src='https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=275885&theme=dark' alt='TabTrum - Save & Launch your Browser Tab Combinations in a blink | Product Hunt' style='width: 250px; height: 54px;' width='250' height='54' /></a>
+            
           </div>
           <img class='img-fluid' src='../assets/tabtrum_ss.png'/>
           <p>&nbsp;</p>
@@ -64,6 +67,7 @@
             <h2 class='text-kinda-light'>Have a Feature Request? Want to report a bug?</h2>
             <h2 class='text-kinda-light'>Drop us a Message, or tweet <a href='https://twitter.com/tabtrumapp' target='blank' class='blue-name'>@tabtrumapp <i class="fab fa-twitter blue-name"></i></a></h2>
             <br />
+            <a href='https://www.producthunt.com/posts/tabtrum?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tabtrum' target='_blank'><img src='https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=275885&theme=dark' alt='TabTrum - Save & Launch your Browser Tab Combinations in a blink | Product Hunt' style='width: 250px; height: 54px;' width='250' height='54' /></a>
             <br />
             
           </div>
